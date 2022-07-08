@@ -26,3 +26,5 @@ passes the network makes on the training data. E.g. noOfEpochs = 2 would mean th
    set.
    There is also a JAR file that has 98.99% percent acccury, pretrained system.
    This project was made using NetBeans IDE 8.2.
+   
+   ![image](https://user-images.githubusercontent.com/64362945/177985834-535f7619-1cb9-44d6-89f4-301e7d824b61.png)
